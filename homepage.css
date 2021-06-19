@@ -1,0 +1,155 @@
+.style {
+    background-color: #ffffff;
+    
+}
+
+body{
+    background-color:#ffffff ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.nav ul{
+    background-image: url(logo2.png);
+    background-repeat: no-repeat;
+    background-size: 230px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 55px;
+    line-height: 55px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: right;
+    
+    
+}
+.nav li{
+    display:  inline-block;
+    border-right: 1px solid ;
+   
+    
+    
+    
+}
+a{
+    display: block;
+    padding: 0 28px;
+    color: goldenrod;
+    text-decoration: none;
+}
+
+a:hover{
+   
+    color:rgb(238, 238, 85);
+    list-style: none;
+    
+}
+
+.photo{
+    background-image: url(bank1.jpg);
+    background-repeat: no-repeat;
+    width:50%;
+    float:right;
+    background-position: right;
+    background-size: 100%;
+    height: 700px;
+    text-align: right;
+    text-decoration-color: gold;
+}
+
+.text{
+    width:50%;
+    margin: 100PX;
+    
+}
+
+hr{
+    width: 65%;
+    margin: 0 auto;
+    float: left;
+    border-top: 2px solid gold;
+}
+
+.button{
+    
+    background-color: gold;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 0px;
+    cursor: pointer;
+    
+   
+    
+
+}
+
+.access{
+    width: 33.3%;
+    float: left;
+    margin-top: 200px;
+    padding-left: 100px;
+    background-color: rgb(255, 255, 255);
+    
+}
+.middle{
+    float:left;
+    margin-top: 20px;
+    width: 500px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+}
+
+.left{
+    float:left;
+    margin-top: 13px;
+    width: 400px;
+    height: 250px;
+    background-color:rgb(255, 255, 255) ;
+}
+.about{
+    float:left;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-left: 85px;
+    width: 100%;
+    height: 200px;
+    background-color:rgb(255, 255, 255)
+}
+.table__title{
+    text-align: center;
+    width: 100%;
+}
+td {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+th,
+td {
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
+
+.const__table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+
+
+
